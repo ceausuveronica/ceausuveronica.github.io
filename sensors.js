@@ -10,7 +10,7 @@ function deseneaza_cerc_svg(gamma, beta)
 	var w = svg.getAttribute("width");
 	var h = svg.getAttribute("height");
 	
-	var cerc = document.getElementById("id_circle");
+	var cerc = document.getElementById("1");
 
 	var centru = {x : w / 2, y : h / 2};
 	var raza = cerc.getAttribute("r");
