@@ -748,4 +748,4 @@ function _removeToken () {
 window.addToHomescreen = ath;
 
 })(window, document);
-};
+
