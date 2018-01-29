@@ -1,5 +1,5 @@
 
-document.getElementById("id_logic_level_version").innerHTML = "Business level version: 2018.01.29.7"; 
+document.getElementById("id_logic_level_version").innerHTML = "Business level version: 2018.01.30.7"; 
 window.addEventListener('deviceorientation', ondeviceorientation);
 window.addEventListener('devicemotion', ondevicemotion);
 
@@ -34,7 +34,7 @@ function ondevicemotion(event)
 	
 }
 
-document.getElementById("id_logic_level_version").innerHTML = "Business level version: 2018.01.29.2"; 
+document.getElementById("id_logic_level_version").innerHTML = "Business level version: 2018.01.30.2"; 
 
 var canvas = document.getElementById("id_canvas");
 var context = canvas.getContext("2d");
