@@ -21,4 +21,6 @@ sense, and the gamma particles remain in place. This clearly distinguishes three
 -  an image that disappears at the moment of touch
 - at the bottom of the page a video is uploaded from the net from an address
 The java file contains functions for the sensors used in the program
+
+#
 Author: Copyright (c) Radu (Ceaușu) Veronica - January - 2018
