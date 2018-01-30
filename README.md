@@ -23,4 +23,4 @@ sense, and the gamma particles remain in place. This clearly distinguishes three
 The java file contains functions for the sensors used in the program
 
 #
-Author: Copyright (c) Radu (Ceaușu) Veronica - January - 2018
+Author:  Radu (Ceaușu) Veronica - 30. January.2018
