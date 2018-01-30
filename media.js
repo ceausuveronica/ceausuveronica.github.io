@@ -1,4 +1,8 @@
 
+// RADU (CEAUȘU) VERONICA VICTORIA EMAIL: ceauvero@yahoo.com
+//The above copyright notice and this permission notice shall be included in all
+//copies or substantial portions of the Software
+//-----------------------------------------
 document.getElementById("id_logic_level_version").innerHTML = "Business level version: 2018.01.30.7"; 
 window.addEventListener('deviceorientation', ondeviceorientation);
 window.addEventListener('devicemotion', ondevicemotion);
@@ -17,8 +21,7 @@ function ondeviceorientation(event)
 	document.getElementById("id_beta").innerHTML = "beta = " + Math.round(beta * 10) / 10;
 	document.getElementById("id_gamma").innerHTML = "gamma = " + Math.round(gamma * 10) / 10;
 	
-	//deseneaza_cerc_canvas(gamma, beta);
-	// deseneaza_cerc_svg(gamma, beta);
+	
 	deseneaza_patrat_canvas(alpha, gamma, beta);
 }
 //----------------------------------------
@@ -34,7 +37,7 @@ function ondevicemotion(event)
 	
 }
 
-document.getElementById("id_logic_level_version").innerHTML = "Business level version: 2018.01.30.2"; 
+document.getElementById("id_logic_level_version").innerHTML = "DATA: 2018.01.30.2"; 
 
 var canvas = document.getElementById("id_canvas");
 var context = canvas.getContext("2d");
