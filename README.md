@@ -1,13 +1,14 @@
-# HTML Media
+# Imagine_Robotică
 ---
 _
 
- The project contains the following files:
+The project contains the following files:
  
-1.  README PROIECT MEDIA.md` is the file you're reading.  You should be reading it on GitHub.
+1.  IMAGINE.CPP` is the file Calculates and displays a histogram of a matrix set and displays an image
 2.   2.JPG is the the picture file they use.
-3.   media.html` media.html is the executable file
-4.    media.js is the javascript file
+3.   pahar_vero_scad is an openscad application that displays multiple objects:
+     a glass, 10 cylinders and a message
+4.    senzor_temperatură.ino is an arduino application that contains a temperature sensor that displays the temperature
 When we launch the application on our mobile phone, it will show us:
 
 - On the top of the clock with the exact time
@@ -23,4 +24,4 @@ sense, and the gamma particles remain in place. This clearly distinguishes three
 The java file contains functions for the sensors used in the program
 
 #
-Author:  Radu (Ceaușu) Veronica - 30. January.2018
+Author:  Radu (Ceaușu) Veronica - 2. Iune.2018
