@@ -1,5 +1,5 @@
 # Imagine_Robotică
----
+---https://github.com/ceausuveronica/ceausuveronica.github.io/blob/master/Capture_arduino.PNG
 _
 
 The project contains the following files:
