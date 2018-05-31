@@ -1,4 +1,6 @@
 # Imagine_Robotică
+Captură Openscad.PNG
+
 https://github.com/ceausuveronica/ceausuveronica.github.io/blob/master/Captur%C4%83%20Openscad.PNG
 
 The project contains the following files:
