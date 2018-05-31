@@ -1,7 +1,5 @@
 # Imagine_Robotică
 
-
-
 ![alt text](https://github.com/ceausuveronica/ceausuveronica.github.io/blob/master/Captur%C4%83%20Openscad.PNG "Logo Title Text 1")
 
 
