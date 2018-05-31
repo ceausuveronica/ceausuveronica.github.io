@@ -2,7 +2,8 @@
 
 
 
-![alt text]https://github.com/ceausuveronica/ceausuveronica.github.io/blob/master/Captur%C4%83%20Openscad.PNG
+![alt text](https://github.com/ceausuveronica/ceausuveronica.github.io/blob/master/Captur%C4%83%20Openscad.PNG "Logo Title Text 1")
+
 
 The project contains the following files:
  
