@@ -12,3 +12,4 @@ The project contains the following files:
 #
 Author:  Radu (Ceaușu) Veronica - 2. Iune.2018
 
+vero
